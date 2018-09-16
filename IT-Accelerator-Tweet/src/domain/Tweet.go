@@ -7,7 +7,7 @@ type Tweet struct {
 	Text string
 	Date *time.Time
 }
-// hbjhbjgjhg
+// hbjhbjgjhgjjkjkjkjkjkjkjkkkjjkjkkjjkjkjkjkjkjkjkjkjkkjkjjkkjjkjkjk
 
 // test2
 func NewTweet(user string, text string) *Tweet{
