@@ -7,7 +7,7 @@ type Tweet struct {
 	Text string
 	Date *time.Time
 }
-
+// test
 func NewTweet(user string, text string) *Tweet{
 	t := time.Now()
 	tweet := Tweet{user, text, &t}
